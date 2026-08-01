@@ -1,0 +1,7 @@
+module.exports = [
+"[project]/Krishi-Niti-main/.next-internal/server/app/page/actions.js [app-rsc] (server actions loader, ecmascript)", ((__turbopack_context__, module, exports) => {
+
+}),
+];
+
+//# sourceMappingURL=Krishi-Niti-main__next-internal_server_app_page_actions_db45ca66.js.map

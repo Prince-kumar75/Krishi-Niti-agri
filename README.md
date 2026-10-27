@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/rananishant000155-8717s-projects/v0-agri-sense-farming-assistant](https://vercel.com/rananishant000155-8717s-projects/v0-agri-sense-farming-assistant)**
+**[https://krishi-niti-agri-fmp7.vercel.app/dashboard](https://krishi-niti-agri-fmp7.vercel.app/dashboard)**
 
 ## Build your app
 
